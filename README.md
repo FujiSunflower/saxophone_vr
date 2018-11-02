@@ -5,5 +5,5 @@ Thanks for [EasyOpenVROverlayForUnity](https://sabowl.sakura.ne.jp/gpsnmeajp/uni
 # How to Use
 Determine saxophone position  
 ![](https://github.com/rn9dfj3/saxophone_vr/blob/master/figure1.png)  
-Play guitar right hand  
+Play saxophone right hand  
 ![](https://github.com/rn9dfj3/saxophone_vr/blob/master/figure2.png)
