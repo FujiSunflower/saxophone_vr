@@ -1,6 +1,6 @@
 # Saxophone VR
 VRサックスです。他のVRソフトウェアで遊んでいる状態で使えます。  
-Saxophone in VR on playing other vr software. This is [Download](https://github.com/rn9dfj3/saxophone_vr/releases) and [Movie](https://youtu.be/8D1J7QPhH4o) !!!  
+Saxophone what can use on playing other VR software. This is [Download](https://github.com/rn9dfj3/saxophone_vr/releases) and [Movie](https://youtu.be/8D1J7QPhH4o) !!!  
 Thanks for [EasyOpenVROverlayForUnity](https://sabowl.sakura.ne.jp/gpsnmeajp/unity/EasyOpenVROverlayForUnity/)!!!  
 # How to Use
 Determine saxophone position  
